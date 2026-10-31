@@ -1,0 +1,7 @@
+streamlit>=1.37.0
+pandas
+openpyxl
+reportlab
+xlrd
+pillow
+plotly
